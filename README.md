@@ -40,4 +40,4 @@ This project compares the performance of **Random Forest (RFC)**, **Support Vect
 - The `param_grid` is currently set for **Random Forest** and does not apply to **SVM** and **MLP**. Consider customizing the hyperparameters for each model separately for better tuning.  
 - Running `GridSearchCV` for all three models sequentially may be slow. You may want to parallelize or reduce the search space for efficiency.  
 
-Let me know if you need modifications! 🚀
+Let me know if you have any modifications! 🚀
